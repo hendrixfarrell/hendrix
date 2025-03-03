@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid black;
+}
+
+img {
+    width: 300px;
+}
